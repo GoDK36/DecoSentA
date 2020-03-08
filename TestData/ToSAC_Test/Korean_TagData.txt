@@ -1,0 +1,10 @@
+웃다	VS/QXPO
+미소짓다	VS/QXPO
+즐겁다	AS/QXPO
+투덜거리다	VS/QXNG
+피하다	VS/QXNG
+고통	NS/QXNG
+불만	NS/QXNG
+좋다	AS/QXPO
+편하다	AS/QXPO
+쉬다	VS/QXPO
